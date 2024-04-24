@@ -1,6 +1,8 @@
 # ResumeFit
 An innovative application designed to bridge the gap between job seekers and their desired job postings
 
+Link to Live App: [ResumeFit](https://resumefit.streamlit.app/)
+
 ## Key Frameworks/Libraries/APIs
 
 This project makes use of the following:
